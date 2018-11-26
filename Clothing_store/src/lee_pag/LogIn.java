@@ -139,7 +139,7 @@ public class LogIn extends JFrame {
 
 	private JButton getBtnreset() {
 		if (btnreset == null) {
-			btnreset = new JButton("\uCD08\uAE30\uD654");
+			btnreset = new JButton("\uB9AC\uC14B");
 			btnreset.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
 					tfId.setText("");
